@@ -4,4 +4,8 @@ Kasim ayinda iyi bir ise girebilirsem hersey cok güzel olur.
 bazi kodlar yazdim.
 
 burada cakisma(conflict) olacak.
-diger developer kod yazdi.
+
+degisiklik yaptim.
+
+
+
